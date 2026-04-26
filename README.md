@@ -45,13 +45,12 @@ A 3D visualisation showing that the **future is not yet created**. The diagram d
 
 ### 2. The Twin Paradox & Simultaneity Jump
 These diagrams illustrate how the shifting "plane of simultaneity" can create an apparent discontinuity—or "jump"—when coordinates are not carefully selected, and demonstrate how coordinate continuity is preserved between frames when the diagram is constructed correctly."
-![Twin Paradox](figures/figure2.png)
-![Twin Paradox](figures/figure4.png)
+![Simultaneity](figures/figure1.png)
 
 ### 3. Absolute Simultaneity Framework
 Visual proof that when reference points are chosen from both frames simultaneously, events are absolute.
-![Simultaneity](figures/figure1.png)
-
+![Twin Paradox](figures/figure4.png)
+![Twin Paradox](figures/figure2.png)
 ---
 
 ## 🛠️ Generating the Diagrams
