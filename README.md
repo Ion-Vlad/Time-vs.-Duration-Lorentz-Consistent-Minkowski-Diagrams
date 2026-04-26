@@ -50,7 +50,7 @@ These diagrams illustrate how the shifting "plane of simultaneity" can create an
 ### 3. Absolute Simultaneity Framework
 Visual proof that when reference points are chosen from both frames simultaneously, events are absolute.
 ![Twin Paradox](figures/figure4.png)
-![Twin Paradox](figures/figure2.png)
+
 ---
 
 ## 🛠️ Generating the Diagrams
