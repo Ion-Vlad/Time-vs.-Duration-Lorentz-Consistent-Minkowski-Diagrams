@@ -33,6 +33,7 @@ By treating **simultaneity as common reference frame** and **duration as relativ
 | `LICENSE` | Creative Commons Attribution 4.0 International License. |
 
 ---
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ## 🖼️ Key Visualisations
 
