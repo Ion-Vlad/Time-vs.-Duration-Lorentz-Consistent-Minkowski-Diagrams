@@ -1,7 +1,7 @@
 
 © 2026 Ion Vlad. This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
-Attribution: Anyone using information from this work must provide appropriate credit. Please cite as: Vlad, I. (2026). Time vs. Duration: Lorentz-Consistent Minkowski Diagrams  [Link to Preprint/Repository].
+Attribution: Anyone using information from this work must provide appropriate credit. Please cite as: Vlad, I. (2026). Time vs. Duration: Lorentz-Consistent Minkowski Diagrams  [https://zenodo.org/record/19813635].
  
 Source: https://drive.proton.me/urls/XG5ZKT94A8#ijnqZsisCgjv
 
