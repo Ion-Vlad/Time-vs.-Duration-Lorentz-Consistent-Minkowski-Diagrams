@@ -4,7 +4,8 @@ A Reinterpretation of Special Relativity, simultaneity, twin paradox, spacetime 
 **Author:** Ion Vlad  
 **Date:** March 18, 2026  
 **License:** CC BY 4.0 ([View License](https://creativecommons.org/licenses/by/4.0/))
-**Version v1.5.   02 June 2026   DOI 10.5281/zenodo.20506983
+
+**DOI:** Version v1.5 -- 02 June 2026   DOI 10.5281/zenodo.20506983
 ---
 
 ## 📄 Overview
